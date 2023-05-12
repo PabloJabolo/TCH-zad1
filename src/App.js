@@ -6,7 +6,7 @@ export const ver = process.env.REACT_APP_VERSION || '1.0.0';
 
 function App() {
 
-  const [name, setName] = useState('Wojciech Dziedzic');
+  const [name, setName] = useState('Paweł Jabłoniec');
   const [ipAddress, setIpAddress] = useState('');
   const [localTime, setLocalTime] = useState('');
   const [time, setTime] = useState(new Date())
