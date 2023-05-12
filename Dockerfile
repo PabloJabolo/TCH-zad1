@@ -21,7 +21,8 @@ FROM nginx:1.23.4-alpine
 
 ARG VERSION
 
-LABEL org.opencontaine rs.image.version="$VERSION"
+LABEL org.opencontainers.image.version="$VERSION"
+LABEL org.opencontainers.image.authors="Paweł Jabłoniec"
 
 COPY nginx.conf /etc/nginx/conf.d/default.conf 
 
