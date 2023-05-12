@@ -1,11 +1,8 @@
 <h1>Technologie chmurowe - Zadanie 1</h1>
-# Wojciech Dziedzic
+# Paweł Jabłoniec
 
 # Część 1 (Obowiązkowa)
 ## 1.1
-<b>Widok strony</b>
-
-
 
 
 ## 1.2
